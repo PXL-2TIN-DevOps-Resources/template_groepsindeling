@@ -18,6 +18,11 @@ _Tip: Maak doorheen de komende weken regelmatig snapshots van je VM._
 
 ## Deliverable
 Pas onderstaande lijst aan met de namen van de verschillende studenten in dit team:
-1) 
-2) 
-3) 
+
+1)
+
+2)
+
+3)
+
+
