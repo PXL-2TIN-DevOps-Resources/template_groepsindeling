@@ -17,6 +17,7 @@ Doe een update van alle pakketten via het softwarecenter. Nadat alle software ge
 _Tip: Maak doorheen de komende weken regelmatig snapshots van je VM._
 
 ## Deliverable
+### deliverable A
 Pas onderstaande lijst aan met de namen van de verschillende studenten in dit team:
 
 1)
@@ -24,5 +25,13 @@ Pas onderstaande lijst aan met de namen van de verschillende studenten in dit te
 2)
 
 3)
+### deliverable B
+Maak een nieuw bestand aan met de naam `samenwerking.md`. Hierin voorzie je een beschrijving van hoe je als team samenwerkt:
+- Hoe bepaal je de opsplitsing van de taken?
+- Op welke manier werk je samen & communiceer je als team binnen & buiten de lesuren?
+- Hoe zorg je ervoor dat alle teamleden op de hoogte blijven van alle taken?
+- Hoe doe je aan kennisoverdracht binnen je groep?
+- Wie is verantwoordelijk voor de eindoplevering? Hoe pak je dit als team aan? 
+- ...
 
 
