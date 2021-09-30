@@ -18,13 +18,15 @@ _Tip: Maak doorheen de komende weken regelmatig snapshots van je VM._
 
 ## Deliverable
 ### deliverable A
-Pas onderstaande lijst aan met de namen van de verschillende studenten in dit team:
+Pas onderstaande lijst aan met de namen van de verschillende studenten in dit team en de klas waarin ze zitten. Bv. John Doe - 2TINA:
 
 1)
 
 2)
 
 3)
+
+4)
 ### deliverable B
 Maak een nieuw bestand aan met de naam `samenwerking.md`. Hierin voorzie je een beschrijving van hoe je als team samenwerkt:
 - Hoe bepaal je de opsplitsing van de taken?
