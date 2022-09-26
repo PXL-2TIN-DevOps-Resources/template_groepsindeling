@@ -15,6 +15,13 @@ sudo apt-get update && sudo apt-get install git
 Doe een update van alle pakketten via het softwarecenter. Nadat alle software geüpdatet is, neem je een snapshot van je virtuele machine. Op deze manier heb je altijd een backup van de clean install.
 
 _Tip: Maak doorheen de komende weken regelmatig snapshots van je VM._
+## Handmatig opzetten applicatie in de virtuele machine
+Zorg ervoor dat de applicatie draait in de VM die je net hebt aangemaakt. De code kan je vinden op onderstaande link:
+https://github.com/PXL-2TIN-DevOps-Resources/Calculator-app
+
+Het is best dat elk teamlid deze kennis beheerst. Je kan hier voor onderstaande installatiegids gebruiken:
+https://github.com/PXL-2TIN-DevOps-Resources/installatiegids_calculatorApp
+
 
 ## Deliverable
 ### deliverable A
@@ -36,4 +43,6 @@ Maak een nieuw bestand aan met de naam `samenwerking.md`. Hierin voorzie je een 
 - Wie is verantwoordelijk voor de eindoplevering? Hoe pak je dit als team aan? 
 - ...
 
+### deliverable C
+Maak met de kennis die je nu hebt een duidelijk stappenplan van de flow van het deploymentproces van de applicatie. Dit kan je in de latere opdrachten helpen om het proces te automatiseren. Plaats de flow onder deze deliverable
 
