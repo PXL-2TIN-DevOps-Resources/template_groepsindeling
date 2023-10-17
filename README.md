@@ -43,6 +43,6 @@ Maak een nieuw bestand aan met de naam `samenwerking.md`. Hierin voorzie je een 
 - Wie is verantwoordelijk voor de eindoplevering? Hoe pak je dit als team aan? 
 - ...
 
-### deliverable C
+### deliverable C (n.v.t. voor S2IT)
 Maak met de kennis die je nu hebt een duidelijk stappenplan van de flow van het deploymentproces van de applicatie. Dit kan je in de latere opdrachten helpen om het proces te automatiseren. Plaats de flow onder deze deliverable
 
