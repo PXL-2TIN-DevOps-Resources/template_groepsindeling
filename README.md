@@ -1,27 +1,12 @@
 # Opdracht 1: Groepsindeling & Opzetten omgeving
 
-_Aan de hand van deze opdracht zorg je voor de nodige infrastructuur die nodig is voor het vak DevOps. Het doel is voornamelijk om straks tijd uit te sparen voor andere opdrachten. Deze opdracht telt **niet **mee voor het PE gedeelte van het vak DevOps. Gebruik deze opdracht ook als oefening voor het insturen van opdrachten._
+_Aan de hand van deze opdracht zorgen we dat de groepsindeling administratief in orde is. Daarnaast is deze opdracht perfect om een keer de flow van het indienen van opdrachten te testen zonder dat dit een impact heeft op je evaluatie moest er iets mis gaan. Deze opdracht telt **niet **mee voor het PE gedeelte van het vak DevOps._
 
-## Aanmaken virtuele machine
+In les 1 hebben jullie de odpracht gekregen om handmatig te applicatie te deployen in een lokale VM of in de cloud aan de hand van AWS academy. Zorg ervoor dat alle leden de applicatie minstens een keer gedeployed hebben. De kennis die je hierin opdoet is belangrijk voor de andere opdrachten.
 
-Zorg ervoor dat **elk teamlid** op zijn toestel een Virtuele machine met als besturingssysteem Ubuntu desktop heeft voorzien.  Je mag zelf kiezen op welke manier je deze virtuele machine gebruikt (vmware, virtualbox, hyperv, cloud, ...).Uiteraard kan één persoon deze virtuele machine klaarmaken en dan delen met de rest via een USB stick / WeTransfer. Als gebruikersnaam neem je “student” en als wachtwoord “pxl” bij de installatie. 
+Indien je gebruik wil maken van de cloud om je virtuele machines te hosten kan je gebruik maken van onze AWS Academy learner lab. Meer informatie hieroven kan je [hier](https://2tin-cloudessentials-resources.github.io/cloud-essentials-labs/#/1_introduction) terugvinden. Een virtuele machine in AWS noemt een _EC2 instance_. Je kan hier gebruik maken van de types `t2.micro` (voor servers waarop we deployments doen) en `t2.medium` (voor jenkins). Als distributie maak je voor DevOps best gebruik van _Ubuntu_. 
 
-Voer onderstaand commando uit om alvast git in je VM te installeren:
-
-```
-sudo apt-get update && sudo apt-get install git
-```
-
-Doe een update van alle pakketten via het softwarecenter. Nadat alle software geüpdatet is, neem je een snapshot van je virtuele machine. Op deze manier heb je altijd een backup van de clean install.
-
-_Tip: Maak doorheen de komende weken regelmatig snapshots van je VM._
-## Handmatig opzetten applicatie in de virtuele machine
-Zorg ervoor dat de applicatie draait in de VM die je net hebt aangemaakt. De code kan je vinden op onderstaande link:
-https://github.com/PXL-2TIN-DevOps-Resources/Calculator-app
-
-Het is best dat elk teamlid deze kennis beheerst. Je kan hier voor onderstaande installatiegids gebruiken:
-https://github.com/PXL-2TIN-DevOps-Resources/installatiegids_calculatorApp
-
+Vergeet niet om een security group aan te maken waarbij je het IP adres van je thuis & school toegang geeft tot je viruele machine. Meer informatie hierover krijg je tijdens de lessen Cloud Essentials.
 
 ## Deliverable
 ### deliverable A
@@ -34,6 +19,7 @@ Pas onderstaande lijst aan met de namen van de verschillende studenten in dit te
 3)
 
 4)
+
 ### deliverable B
 Maak een nieuw bestand aan met de naam `samenwerking.md`. Hierin voorzie je een beschrijving van hoe je als team samenwerkt:
 - Hoe bepaal je de opsplitsing van de taken?
@@ -42,7 +28,3 @@ Maak een nieuw bestand aan met de naam `samenwerking.md`. Hierin voorzie je een 
 - Hoe doe je aan kennisoverdracht binnen je groep?
 - Wie is verantwoordelijk voor de eindoplevering? Hoe pak je dit als team aan? 
 - ...
-
-### deliverable C (n.v.t. voor S2IT)
-Maak met de kennis die je nu hebt een duidelijk stappenplan van de flow van het deploymentproces van de applicatie. Dit kan je in de latere opdrachten helpen om het proces te automatiseren. Plaats de flow onder deze deliverable
-
