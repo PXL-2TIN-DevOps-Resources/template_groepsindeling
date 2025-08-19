@@ -4,7 +4,7 @@ _Aan de hand van deze opdracht zorgen we dat de groepsindeling administratief in
 
 In les 1 hebben jullie de odpracht gekregen om handmatig te applicatie te deployen in een lokale VM of in de cloud aan de hand van AWS academy. Zorg ervoor dat alle leden de applicatie minstens een keer gedeployed hebben. De kennis die je hierin opdoet is belangrijk voor de andere opdrachten.
 
-Indien je gebruik wil maken van de cloud om je virtuele machines te hosten kan je gebruik maken van onze AWS Academy learner lab. Meer informatie hieroven kan je [hier](https://2tin-cloudessentials-resources.github.io/cloud-essentials-labs/#/1_introduction) terugvinden. Een virtuele machine in AWS noemt een _EC2 instance_. Je kan hier gebruik maken van de types `t2.micro` (voor servers waarop we deployments doen) en `t2.medium` (voor jenkins). Als distributie maak je voor DevOps best gebruik van _Ubuntu_. 
+Indien je gebruik wil maken van de cloud om je virtuele machines te hosten kan je gebruik maken van onze AWS Academy learner lab. Meer informatie hieroven kan je [hier](https://2tin-cloudessentials-resources.github.io/cloud-essentials-labs/#/1_introduction) terugvinden. Een virtuele machine in AWS noemt een _EC2 instance_. Je kan hier gebruik maken van de types `t2.micro` (voor servers waarop we deployments doen). Als distributie maak je voor DevOps best gebruik van _Ubuntu_. 
 
 Vergeet niet om een security group aan te maken waarbij je het IP adres van je thuis & school toegang geeft tot je viruele machine. Meer informatie hierover krijg je tijdens de lessen Cloud Essentials.
 
